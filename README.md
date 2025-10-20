@@ -107,15 +107,3 @@ python chatbot.py
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-If you want, I can also **make a more GitHub-friendly version with badges, images, and demo GIFs** that looks professional and attracts recruiters.  
-
-Do you want me to do that next?
-```
