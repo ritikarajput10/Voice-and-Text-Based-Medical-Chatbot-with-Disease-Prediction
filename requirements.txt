@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+nltk
+spacy
+transformers
+SpeechRecognition
+PyAudio
+pyttsx3
+Flask
+firebase-admin
+python-dotenv
