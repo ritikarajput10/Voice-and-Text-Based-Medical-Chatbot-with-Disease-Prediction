@@ -62,21 +62,17 @@ Predicts **Heart Disease** and **Diabetes** risk using advanced machine learning
 ---
 
 ## **Setup and Installation**
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/medical-chatbot.git
-````
 
-2. Install required libraries:
+1. Install required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the chatbot:
+2. Run the chatbot:
 
 ```bash
-python chatbot.py
+python CHAT_1.py
 ```
 
 ---
